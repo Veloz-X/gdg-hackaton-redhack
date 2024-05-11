@@ -4,3 +4,6 @@
 [submodule "frontend-hackaton"]
 	path = frontend-hackaton
 	url = https://github.com/Veloz-X/frontend-hackaton.git
+[submodule "ms-hackathon"]
+	path = ms-hackathon
+	url = https://github.com/davcortez/ms-hackathon.git
