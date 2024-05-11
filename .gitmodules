@@ -1,0 +1,3 @@
+[submodule "backend-hackaton"]
+	path = backend-hackaton
+	url = https://github.com/Veloz-X/backend-hackaton.git
